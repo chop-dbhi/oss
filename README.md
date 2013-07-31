@@ -32,6 +32,7 @@ ___ [Github Pages](http://pages.github.com/) for user and technical docs
 
 ___ _(optional)_ [GitHub Wiki](https://github.com/blog/774-git-powered-wikis-improved) for community supplied information or extensions
 - See [Backbone's wiki](https://github.com/jashkenas/backbone/wiki) for example pages
+- Here is [wiki template](https://github.com/bruth/oss-community-wiki/wiki) which includes most of the needed pages for building a community
 
 ### Community
 
