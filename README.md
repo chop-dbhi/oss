@@ -26,8 +26,11 @@
     - See [Backbone's wiki](https://github.com/jashkenas/backbone/wiki) for example pages
     - Here is [wiki template](https://github.com/bruth/oss-community-wiki/wiki) which includes most of the needed pages for building a community
 
+
 ### Community
 
+- Create tickets that are simple to implement/fix to encourage people to contribute (even if it takes longer to write up the ticket than to implement)
+    - This lowers the barrier to get someone _in the code_. They will become comfortable navigating the code which increases their likelihood to contribute.
 - [Create](https://groups.google.com/forum/#!creategroup) a Google Group or something
     - For general discussion, questions, support, etc.
     - Provides a low barrier for getting people aware of what's happening in the project without needing to have a GitHub account
