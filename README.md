@@ -25,6 +25,11 @@
 - _(optional)_ [GitHub Wiki](https://github.com/blog/774-git-powered-wikis-improved) for community supplied information or extensions
     - See [Backbone's wiki](https://github.com/jashkenas/backbone/wiki) for example pages
     - Here is [wiki template](https://github.com/bruth/oss-community-wiki/wiki) which includes most of the needed pages for building a community
+- Dedicate a site or series of pages to **cookbook-style** code recipes
+    - Recipes should follow the tried and true O'Reilly [problem/solution/discussion format](http://oreillynet.com/images/cookbooks/spread.gif)
+    - This acts as a _code examples FAQ_ which lowers the barrier for people to learn the APIs
+    - Create an editable wiki page or thread on Google Groups to encourage user-submitted recipes. If these are the dedicated pages, ensure the recipes are reviewed and attribute is provided when they are moved.
+        - Send an email thanking the user who submitted with a link to the new location of the recipe
 
 
 ### Community
