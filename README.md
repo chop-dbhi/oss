@@ -30,6 +30,9 @@
     - This acts as a _code examples FAQ_ which lowers the barrier for people to learn the APIs
     - Create an editable wiki page or thread on Google Groups to encourage user-submitted recipes. If these are the dedicated pages, ensure the recipes are reviewed and attribute is provided when they are moved.
         - Send an email thanking the user who submitted with a link to the new location of the recipe
+- Have a section for "Prior Work"
+    - This is thought about implicitly when starting a project, but this pre-development reasoning is helpful for others to understand why the project exists to begin with. Note, this does not preclude having an "About" section/page which has a more direct vision for the project.
+    - Start writing this section _immediately_ during a project's inception. If nothing else doing this helps justify why the project is worth doing.
 
 
 ### Community
