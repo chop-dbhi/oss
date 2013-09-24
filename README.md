@@ -5,6 +5,7 @@
 - [Choose](http://choosealicense.com/) a license
     - Without a license, people won't or can't use your code
 - [Create repository](https://github.com/new)
+    - If the new project contains Python code, add the [pre-commit](https://github.com/cbmi/oss/blob/master/pre-commit) file to the cloned repo at `.git/hooks/` and set the permissions to `755` using `chmod 755 .git/hooks/pre-commit`. NOTE: You will need to update the [first line](https://github.com/cbmi/oss/blob/master/pre-commit#L1) of the pre-commit file to be the path to your local Python instance.
 - Include CONTRIBUTORS.md in repository
     - Encourages people to contribute and acts as a guideline for contribution
 - Include README.md with general information about the repository
