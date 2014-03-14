@@ -5,7 +5,7 @@ env | sort
 sudo apt-get update -qq
 sudo apt-get install -qq python-yaml
 
-git remote add upstream git://github.com/$TRAVIS_REPO_SLUG
+git remote add upstream git://github.com/cbmi/REPO_NAME.git
 
 UPSTREAM=master
 DIRNAME=$( cd "$( dirname "$0" )" && pwd )
