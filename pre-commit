@@ -1,9 +1,3 @@
-#!<PATH_TO_YOUR_PYTHON>
-import sys
-from flake8.hooks import git_hook
-
-# The flake8 related code here is taken from:
-#       http://flake8.readthedocs.org/en/latest/vcs.html
-
-if __name__ == '__main__':
-    sys.exit(git_hook(strict=True))
+#!/bin/sh
+flake8 <PATH_TO_PYTHON_CODE>
+jshint <PATH_TO_JS_CODE>
